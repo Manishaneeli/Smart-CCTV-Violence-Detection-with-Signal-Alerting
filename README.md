@@ -30,7 +30,11 @@ CCTV camera detecting a crime scene and immediately sending a signal, along with
 - **Integration with Police Systems:** Interfaces with CAD systems and GIS platforms for effective police response.
 - **Data Storage and Management:** On-site or cloud-based storage for captured video footage.
 
-
+## Code Details
+   Code is in ALL INDIA HACKATHON.ipynb provided in the repository
+## visual
+   Image of getting the Emergency mail when violence is detected in 
+   
 ## Future Improvements
 - Integration with AI for more accurate violence detection.
 - Enhanced privacy measures for sensitive data handling.
