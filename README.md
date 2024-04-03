@@ -33,7 +33,7 @@ CCTV camera detecting a crime scene and immediately sending a signal, along with
 ## Code Details
    Code is in ALL INDIA HACKATHON.ipynb provided in the repository
 ## visual
-   Image of getting the Emergency mail when violence is detected in 
+   Image of getting the Emergency mail when violence is detected in Image.jpg
    
 ## Future Improvements
 - Integration with AI for more accurate violence detection.
